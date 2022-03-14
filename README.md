@@ -6,7 +6,7 @@
 
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)](github.com/Joowon0220/TODO-List)
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](github.com/Joowon0220/TODO-List)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](github.com/Joowon0220/TODO-List) [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)](github.com/Joowon0220/TODO-List)
 <br><br>
   
 ## <center>**ing**</center>
