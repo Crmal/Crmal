@@ -1,10 +1,5 @@
 
   
-  <div align="right">
-    
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrmal&count_bg=%23E3FCBF&title_bg=%23B8F1B0&icon=opsgenie.svg&icon_color=%2300FFAB&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
-    
-  <div>
     
 <div align="center">
   백엔드 개발자를 희망하는 대학생입니다.
