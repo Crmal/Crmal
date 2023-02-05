@@ -14,7 +14,7 @@
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=wwhite)](github.com/Joowon0220/TODO-List)
 [![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white)](github.com/Joowon0220/TODO-List)
   
-  
+#### Studying
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)](github.com/Joowon0220/TODO-List)
 ## ✨ Infra ✨
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)](github.com/Joowon0220/TODO-List)
