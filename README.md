@@ -31,12 +31,7 @@
 
 <div align="center">
   
-![Crmal's github stats](https://github-readme-stats.vercel.app/api?username=Crmal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crmal&layout=compact&theme=dark)
-
-
-   
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pjm9320)](https://solved.ac/pjm9320)
+![Crmal's github stats](https://github-readme-stats.vercel.app/api?username=Crmal&show_icons=true&theme=radical)   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pjm9320)](https://solved.ac/pjm9320)
 
 <div>
 
